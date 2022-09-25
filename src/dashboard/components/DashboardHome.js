@@ -105,9 +105,9 @@ function DashboardHome(props) {
               <span className="candlestick-1"></span>
             </div>
             <div className="un-block-right">
-              <Link to="/">
-              <span className="interface-2"></span>
-              </Link>
+              <a href='/'>
+                <span className="interface-2"></span>
+              </a>
               <span className="next-1"></span>
             </div>
           </div>

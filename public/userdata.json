@@ -1,0 +1,20 @@
+{
+    "user_arr": [
+        {
+            "id": "6p1pmuqap",
+            "tag": "Youtube",
+            "originalURL": "https://www.youtube.com/watch?v=t9IyQm1S3SE",
+            "user_id": "104387361816717257201",
+            "created_at": 1660928296666,
+            "click_count": 2
+        },
+        {
+            "click_count": 0,
+            "user_id": "104387361816717257201",
+            "originalURL": "https://www.youtube.com/watch?v=h2_Eeo0e28E",
+            "id": "fgv1e32nb",
+            "created_at": 1661005999921,
+            "tag": "Youtube"
+        }
+    ]
+}
